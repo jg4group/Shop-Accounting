@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 13425bed629606e4ab4b88183d74eadf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Nazanin
+  fontNames:
+  - B Nazanin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e2457e19f5518b04eb57c35049185e0d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
